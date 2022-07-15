@@ -48,14 +48,8 @@ li{
   border: none;
   color: var(--btnFontColor);
   background-color: var(btnBg);
+cursor: pointer;
 }
 .btn:focus{
   outline-style: none;
 }
-.dark-theme .btn:hover{
-
-}
-.ligth-theme .btn:hover{
-  background-color: #000;
-  color: #0f0;
-  }
