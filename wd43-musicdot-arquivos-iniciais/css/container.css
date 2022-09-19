@@ -1,0 +1,11 @@
+.container{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+@media (min-width:1066px) {
+  .container{
+    padding-left: calc(100%-960px);
+    padding-right: calc(100%-960px);
+  }
+} 
+
